@@ -4,7 +4,7 @@ This is the toy app for Lesson 4 of the Advanced Android Apps with Kotlin course
 
 ## :wind_face: CustomFanController 
 
-CustomFanController is an example about how to create a CustomView with Kotlin! The user can intercat with the CustomView and click on it in order to switch to a higher level.
+CustomFanController is an example of how to create a CustomView with Kotlin! The user can interact with the CustomView and click on it in order to switch to a higher level.
 
 This app demonstrates the following views and techniques:
 
